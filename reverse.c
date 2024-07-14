@@ -1,3 +1,12 @@
+/*
+Sources used for this application:
+https://stackoverflow.com/questions/66101547/get-line-from-text-and-put-into-a-linked-list
+https://stackoverflow.com/questions/6011345/read-a-file-line-by-line-in-reverse-order
+https://stackoverflow.com/questions/6922829/read-file-backwards-last-line-first
+https://stackoverflow.com/questions/418280/how-to-reverse-lines-of-a-text-file
+https://stackoverflow.com/questions/76377587/reverse-linkedlist-in-one-line
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
