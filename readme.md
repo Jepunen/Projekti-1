@@ -54,4 +54,3 @@ gcc -o reverse reverse.c
 ```sh
 ./reverse input.txt output.txt
 ```
-This command reads lines from `input.txt`, reverses their order, and writes them to `output.txt`.
